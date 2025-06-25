@@ -99,5 +99,5 @@ This project is for educational use. You are free to use, modify, and distribute
 ## 👩‍💻 Created By
 
 **Rutika Guruprasad Kamalakar**  
-`Third Year B.Tech – Computer Science & Engineering`  
+B.Tech – Computer Science & Engineering`  
 Shivaji University, Kolhapur
