@@ -90,12 +90,6 @@ $connectionOptions = [
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots if needed (form, report, Excel output)
-
----
-
 ## 📚 License
 
 This project is for educational use. You are free to use, modify, and distribute it with attribution.
